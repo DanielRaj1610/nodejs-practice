@@ -3,3 +3,6 @@ const fs = require("fs");
 fs.writeFileSync("hello.txt", "Writing files from node js fs");
 
 console.log("hello node js");
+
+// cd first-app
+// run node first-app.js
