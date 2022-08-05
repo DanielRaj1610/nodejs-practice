@@ -34,3 +34,10 @@ server.listen(3000);
  * Blocking and Non-Blocking Code: https://nodejs.org/en/docs/guides/dont-block-the-event-loop/
  *
  */
+
+/**
+ * More on debugging Node.js: https://nodejs.org/en/docs/guides/debugging-getting-started/
+ * For VS CODE DEBUGGING
+ * https://code.visualstudio.com/docs/nodejs/nodejs-debugging
+ *
+ */
